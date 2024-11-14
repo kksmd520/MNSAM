@@ -1,1 +1,1 @@
-### MNSAM: Momentum and Nesterov Accelerated Gradient Based Sharpness-Aware Minimization Method for Deep Learning
+### Sharpness-Aware Minimization Method with Momentum Acceleration for Deep Neural Networks
